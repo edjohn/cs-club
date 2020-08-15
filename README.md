@@ -1,12 +1,12 @@
-Welcome to the GitHub repository for all of the activity content and supplementary resources for the Bakersfield College Computer Science Club!
+# BC CS Club
 
-# Development Tools
+## Development Tools
 
-# Coding Challenges
+## Coding Challenges
 
-# Web Development
+## Web Development
 
-# Game Development
+## Game Development
 
-# Android Development
+## Android Development
 
