@@ -2,13 +2,15 @@
 Welcome to the github repository for the BC CS Club! Here you will find activity content and supplementary materials.
 
 ## Week 0
-*Club Introduction*
+**Club Introduction**
+- *Meeting Date: 09/04/2020*
 1. Read through the [club introduction document](https://docs.google.com/document/d/1yWK_GPunpKuXC55gCPNOfpcrNIuf9G5CEHaIOU95lQo/) if you haven't attended the first meeting.
 2. Join the club Discord if you haven't already: https://discord.gg/KuebcYY
 3. Fill out the [club activity survey](https://forms.gle/9KE8Hb8bQyduEXi46) and the [programming survey survey](https://forms.gle/YL28YejfZWoetbTu8)
 
 ## Week 1-2
-*Linux & The Shell*
+**Linux & The Shell**
+- *Meeting Date: 09/18/2020*
 1. Follow the instructions [here](https://docs.google.com/document/d/1ysMMv5nPhDEp0-l90vsOX99Jo3HtsrAspkxrqPn4jbE/) to create a Linux VM 
    1. Alternative 1: Install GitBash from [here](https://gitforwindows.org/) to have access to a bash terminal
    2. Alternative 2: Follow the instructions [here](https://docs.microsoft.com/en-us/windows/wsl/install-win10) to install WSL from
