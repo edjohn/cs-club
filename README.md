@@ -1,6 +1,6 @@
 # BC CS Club
 ![Logo](https://i.imgur.com/K2QpwMC.png)
-#### Welcome to the github repository for the BC CS Club! Here you will find activity content and supplementary materials.
+#### We are the BC CS Club! Here you will find activity content and supplementary materials.
 
 ## Week 0
 **Club Introduction**
