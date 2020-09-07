@@ -19,7 +19,7 @@
    4. Use Windows PowerShell (open it by pressing Windows Key + R and typing powershell)
 2. Watch [Lecture 1: Course Overview + The Shell](https://www.youtube.com/watch?v=Z56Jmr9Z34Q)
 3. Create a folder for club activities/projects on your computer/VM (will use for future activities)
-4. Complete Exercises 1-10 at the bottom of the page [here](https://missing.csail.mit.edu/2020/course-shell/)
+4. Complete Exercises 1-10 at the bottom of the page [here](https://missing.csail.mit.edu/2020/course-shell/) (refer to the notes on the page if you get stuck)
 ![Linux xkcd](https://imgs.xkcd.com/comics/command_line_fu.png)
 
 
