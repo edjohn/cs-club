@@ -13,7 +13,7 @@
 **Linux & The Shell**
 - *Meeting Date: 09/18/2020*
 1. Follow the instructions [here](https://docs.google.com/document/d/1ysMMv5nPhDEp0-l90vsOX99Jo3HtsrAspkxrqPn4jbE/) to create a Linux VM 
-   1. Alternative 1: Install GitBash from [here](https://gitforwindows.org/) to have access to a bash terminal
+   1. Alternative 1: Install GitBash from [here](https://gitforwindows.org/) to have access to a bash terminal. Leave all options default in the installer.
    2. Alternative 2: Follow the instructions [here](https://docs.microsoft.com/en-us/windows/wsl/install-win10) to install WSL and use its terminal
    3. Alternative 3: Use Windows PowerShell (open it by pressing Windows Key + R and typing powershell)
 2. Watch [Lecture 1: Course Overview + The Shell](https://www.youtube.com/watch?v=Z56Jmr9Z34Q)
