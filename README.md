@@ -12,6 +12,7 @@
 ## Week 1-2
 **Linux & The Shell**
 - *Meeting Date: 09/18/2020*
+- Optional Coding Challenge: [Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 1. Follow the instructions [here](https://docs.google.com/document/d/1ysMMv5nPhDEp0-l90vsOX99Jo3HtsrAspkxrqPn4jbE/) to create a Linux VM 
    1. Alternative 1: Install GitBash from [here](https://gitforwindows.org/) to have access to a bash terminal. Leave all options default in the installer.
    2. Alternative 2: Follow the instructions [here](https://docs.microsoft.com/en-us/windows/wsl/install-win10) to install WSL and use its terminal
@@ -20,5 +21,6 @@
 3. Create a folder for club activities/projects on your computer/VM (will use for uploading club activities to GitHub later)
 4. Complete Exercises 1-10 at the bottom of the page [here](https://missing.csail.mit.edu/2020/course-shell/)
 ![Linux xkcd](https://imgs.xkcd.com/comics/command_line_fu.png)
+
 
 
