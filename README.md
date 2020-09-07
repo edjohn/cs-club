@@ -7,7 +7,7 @@
 - *Meeting Date: 09/04/2020*
 1. Read through the [club introduction document](https://docs.google.com/document/d/1yWK_GPunpKuXC55gCPNOfpcrNIuf9G5CEHaIOU95lQo/) if you haven't attended the first meeting.
 2. Join the club Discord if you haven't already: https://discord.gg/KuebcYY
-3. Fill out the [club activity survey](https://forms.gle/9KE8Hb8bQyduEXi46) and the [programming survey survey](https://forms.gle/YL28YejfZWoetbTu8)
+3. Fill out the [club activity survey](https://forms.gle/9KE8Hb8bQyduEXi46) and the [programming language survey](https://forms.gle/YL28YejfZWoetbTu8)
 
 ## Week 1-2
 **Linux & The Shell**
