@@ -7,7 +7,7 @@
 2. Join the club Discord if you haven't already: https://discord.gg/KuebcYY
 3. Fill out the [club activity survey](https://forms.gle/9KE8Hb8bQyduEXi46) and the [programming language survey](https://forms.gle/YL28YejfZWoetbTu8).
 
-## Week 1-2: Linux & The Shell
+## Week 1-2: The Shell
 ![Linux xkcd](https://imgs.xkcd.com/comics/linux_user_at_best_buy.png)
 - *Meeting Date: 09/18/2020*
 - Optional Coding Challenge: [Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/)
@@ -17,7 +17,16 @@
    3. Follow the instructions [here](https://docs.microsoft.com/en-us/windows/wsl/install-win10) to install WSL and use its terminal.
 2. Watch [Lecture 1: Course Overview + The Shell](https://www.youtube.com/watch?v=Z56Jmr9Z34Q).
 3. Create a folder for club activities/projects on your computer/VM (will use for future activities).
-4. Complete Exercises 1-10 at the bottom of the page [here](https://missing.csail.mit.edu/2020/course-shell/) (refer to the notes on the page if you get stuck).
+4. Complete Exercises 1-10 at the bottom of the page [here](https://missing.csail.mit.edu/2020/course-shell/)
+
+## Week 3-4: Shell Scripting
+![Shell xkcd](https://imgs.xkcd.com/comics/automation.png)
+- *Meeting Date: 10/02/2020*
+- Optional Coding Challenge: [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
+1. Watch [Lecture 2: Shell Tools and Scripting](https://www.youtube.com/watch?v=kgII-YWo3Zw)
+2. Create a folder inside your club activites folder and name it "shell-scripting". Put .sh scripts from exercises in this folder.
+3. Complete Exercises 1-4 at the bottom of the page [here](https://missing.csail.mit.edu/2020/shell-tools/)
+
 
 
 
