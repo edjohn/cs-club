@@ -30,7 +30,7 @@
 - Optional Coding Challenge: [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
 1. Watch [Lecture 2: Shell Tools and Scripting](https://www.youtube.com/watch?v=kgII-YWo3Zw)
 2. Create a folder inside your club activites folder and name it "shell-scripting". Put .sh scripts from exercises in this folder.
-3. Complete Exercises 1-4 at the bottom of the page [here](https://missing.csail.mit.edu/2020/shell-tools/)
+3. Complete Exercises 1-3 at the bottom of the page [here](https://missing.csail.mit.edu/2020/shell-tools/)
 
 ## Lecture Notes
 Meeting 1: https://docs.google.com/document/d/16Ukrcf2GHn4ZwulYuiQ17sgvf1wqL5WRcYU84k3Tffk/
