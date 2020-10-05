@@ -36,7 +36,7 @@
 ![Vim xkcd](https://imgs.xkcd.com/comics/real_programmers.png)
 - *Meeting Date: 10/16/2020*
 - Optional Coding Challenge: [Kids with the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
-1. Watch [Lecture 3: Editors(vim)](https://www.youtube.com/watch?v=a6Q8Na575qc)
+1. Watch [Lecture 3: Editors (vim)](https://www.youtube.com/watch?v=a6Q8Na575qc)
 2. Play the first level of [Vim Adventures](https://vim-adventures.com/)
 3. Complete Exercises 1-7 at the bottom of the page [here](https://missing.csail.mit.edu/2020/editors/)
 
