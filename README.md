@@ -20,9 +20,9 @@
 - *Meeting Date: 09/18/2020*
 - Optional Coding Challenge: [Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 
-2. Watch [Lecture 1: Course Overview + The Shell](https://www.youtube.com/watch?v=Z56Jmr9Z34Q).
-3. Create a folder for club activities/projects on your computer/VM (will use for future activities).
-4. Complete Exercises 1-10 at the bottom of the page [here](https://missing.csail.mit.edu/2020/course-shell/)
+1. Watch [Lecture 1: Course Overview + The Shell](https://www.youtube.com/watch?v=Z56Jmr9Z34Q).
+2. Create a folder for club activities/projects on your computer/VM (will use for future activities).
+3. Complete Exercises 1-10 at the bottom of the page [here](https://missing.csail.mit.edu/2020/course-shell/)
 
 ## Week 3-4: Shell Scripting
 ![Shell xkcd](https://imgs.xkcd.com/comics/automation.png)
