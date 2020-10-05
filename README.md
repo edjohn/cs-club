@@ -32,6 +32,16 @@
 2. Create a folder inside your club activites folder and name it "shell-scripting". Put .sh scripts from exercises in this folder.
 3. Complete Exercises 1-3 at the bottom of the page [here](https://missing.csail.mit.edu/2020/shell-tools/)
 
+## Week 5-6: Vim
+![Vim xkcd](https://imgs.xkcd.com/comics/real_programmers.png)
+- *Meeting Date: 10/16/2020*
+- Optional Coding Challenge: [Kids with the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
+1. Watch [Lecture 3: Editors(vim)](https://www.youtube.com/watch?v=a6Q8Na575qc)
+2. Play the first level of [Vim Adventures](https://vim-adventures.com/)
+3. Complete Exercises 1-7 at the bottom of the page [here](https://missing.csail.mit.edu/2020/editors/)
+
+
+
 ## Lecture Notes
 Meeting 1: https://docs.google.com/document/d/16Ukrcf2GHn4ZwulYuiQ17sgvf1wqL5WRcYU84k3Tffk/
 
