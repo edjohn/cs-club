@@ -45,6 +45,7 @@
 ## Lecture Notes
 - Meeting 1: https://docs.google.com/document/d/16Ukrcf2GHn4ZwulYuiQ17sgvf1wqL5WRcYU84k3Tffk/
 - Meeting 2: https://docs.google.com/document/d/1vxHXJl9nowWb1iHw3Qi1fnw6nIQeErKK-jyIFDr4me8/
+- Meeting 3: https://docs.google.com/document/d/1geJwoAXxsWp47aw8T4kOpofdtNqmZAMRf4O6QVxqCz0/
 
 
 
