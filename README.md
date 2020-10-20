@@ -40,6 +40,16 @@
 2. Play the first level of [Vim Adventures](https://vim-adventures.com/)
 3. Complete Exercises 1-7 at the bottom of the page [here](https://missing.csail.mit.edu/2020/editors/)
 
+## Week 7-8: Git
+![Git xkcd](https://imgs.xkcd.com/comics/git.png)
+- *Meeting Date: 10/30/2020*
+- Optional Coding Challenge: [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/)
+1. Read **Getting Started** and **Git Basics** in the [Pro Git](https://git-scm.com/book/en/v2) book
+2. Watch [Lecture 4: Version Control (Git)](https://www.youtube.com/watch?v=2sjqTHE0zok)
+3. Complete **Introduction Sequence** at [Learn Git Branching](https://learngitbranching.js.org/)
+4. Complete Exercises 2-6 at the bottom of the page [here](https://missing.csail.mit.edu/2020/version-control/)
+
+
 
 
 ## Lecture Notes
