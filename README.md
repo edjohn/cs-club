@@ -57,6 +57,9 @@
 - Meeting 2: https://docs.google.com/document/d/1vxHXJl9nowWb1iHw3Qi1fnw6nIQeErKK-jyIFDr4me8/
 - Meeting 3: https://docs.google.com/document/d/1geJwoAXxsWp47aw8T4kOpofdtNqmZAMRf4O6QVxqCz0/
 
+## Recorded Lectures
+- Meeting 3: https://youtu.be/Yq7UYCJIXg8
+
 
 
 
