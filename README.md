@@ -57,6 +57,7 @@
 
 ## Recorded Lectures
 - Meeting 3: https://youtu.be/Yq7UYCJIXg8
+- Meeting 4: https://youtu.be/-7rC5tdIKP8
 
 
 
