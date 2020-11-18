@@ -49,13 +49,11 @@
 3. Complete **Introduction Sequence** at [Learn Git Branching](https://learngitbranching.js.org/)
 4. Complete Exercises 2-6 at the bottom of the page [here](https://missing.csail.mit.edu/2020/version-control/)
 
-
-
-
 ## Lecture Notes
 - Meeting 1: https://docs.google.com/document/d/16Ukrcf2GHn4ZwulYuiQ17sgvf1wqL5WRcYU84k3Tffk/
 - Meeting 2: https://docs.google.com/document/d/1vxHXJl9nowWb1iHw3Qi1fnw6nIQeErKK-jyIFDr4me8/
 - Meeting 3: https://docs.google.com/document/d/1geJwoAXxsWp47aw8T4kOpofdtNqmZAMRf4O6QVxqCz0/
+- Meeting 4: https://docs.google.com/document/d/11PjuzjX-1RE7JYX9MVX3arhnCUR3c5PO8yuB3T8tSUM/
 
 ## Recorded Lectures
 - Meeting 3: https://youtu.be/Yq7UYCJIXg8
