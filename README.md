@@ -49,6 +49,14 @@
 3. Complete **Introduction Sequence** at [Learn Git Branching](https://learngitbranching.js.org/)
 4. Complete Exercises 2-6 at the bottom of the page [here](https://missing.csail.mit.edu/2020/version-control/)
 
+# Week 9-10: Hackathon
+![Pointer xkcd](https://imgs.xkcd.com/comics/pointers.png)
+- *Meeting Date: 12/11/2020*
+- Optional Coding Challenge: [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+1. Get ready for our first Hackathon! We will be using https://binarysearch.com/, so go ahead and make an account for the site.
+2. Complete the optional coding challenges from the past weeks if you want some practice. Answers to all previous coding challenges can be found [here](https://github.com/edjohn/cs-club/tree/master/coding-challenges). Walkthroughs will be posted later.
+3. The optional coding challenge for the week is particularly challenging-- it requires knowledge of linked lists! Try this if the past challenges were too easy for you. Our hackathon challenges will be comparable in difficulty to the coding challenges from previous weeks though, so its really just extra practice.
+
 ## Lecture Notes
 - Meeting 1: https://docs.google.com/document/d/16Ukrcf2GHn4ZwulYuiQ17sgvf1wqL5WRcYU84k3Tffk/
 - Meeting 2: https://docs.google.com/document/d/1vxHXJl9nowWb1iHw3Qi1fnw6nIQeErKK-jyIFDr4me8/
