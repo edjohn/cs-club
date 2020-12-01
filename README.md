@@ -1,8 +1,6 @@
 # BC CS Club
 ![Logo](https://i.imgur.com/K2QpwMC.png)
 
-
-
 ## Week 0: Club Introduction
 - *Meeting Date: 09/04/2020*
 1. Read through the [club introduction document](https://docs.google.com/document/d/1yWK_GPunpKuXC55gCPNOfpcrNIuf9G5CEHaIOU95lQo/) if you haven't attended the first meeting.
