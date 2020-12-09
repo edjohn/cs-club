@@ -49,7 +49,7 @@
 
 # Week 9-10: Hackathon
 ![Pointer xkcd](https://imgs.xkcd.com/comics/pointers.png)
-- *Meeting Date: 12/11/2020*
+- *Meeting Date: 12/18/2020*
 - Optional Coding Challenge: [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 1. Get ready for our first Hackathon! We will be using https://binarysearch.com/, so go ahead and make an account for the site.
 2. Complete the optional coding challenges from the past weeks if you want some practice. Answers to all previous coding challenges can be found [here](https://github.com/edjohn/cs-club/tree/master/coding-challenges).
