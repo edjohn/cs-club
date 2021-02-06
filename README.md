@@ -1,6 +1,5 @@
 # BC CS Club
 ![Logo](https://i.imgur.com/K2QpwMC.png)
-This is the activity hub for the Bakersfield College Computer Science Club!
 
 ## FAQ
 - **Where can I join the Discord for the club?**
