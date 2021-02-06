@@ -26,9 +26,17 @@
    - Nobody has ever actually asked this question but it's definitely an important question to ask. Here's our official written constitution: https://github.com/edjohn/cs-club/blob/master/student_org_constitution.pdf. The preamble, mission statement, and purpose are what we form this club around. If you ever feel we're veering off course, let us know so we can improve!
 
 ## Meeting 2: Unity Game Development
+<img src="https://unity.com/logo-unity-web.png" width="50%" height="50%"></img>
 - *Meeting Date: 02/12/2020*
-![Unity logo](https://unity3d.com/files/images/ogimg.jpg)
-1. WIP
+1. Create a Unity Hub account at https://id.unity.com/en/conversations/6f6f58ea-5661-4967-8854-1082b5246a75004f
+   1. If the link doesn't work, just go to unity.com, click on the avatar at the top right, and click on Create a Unity ID
+2. Download Unity Hub
+   1. Go to https://store.unity.com/download?ref=personal, accept the terms, and click **Download Unity Hub**
+   2. If you want, you can apply for the student developer pack at https://store.unity.com/academic/unity-student
+3. Open **Unity Hub** and log in with your account. Click on **Installs** and download the latest official release (recommended release may not work for our meeting activity)
+   1. Make sure all the modules in the next window are unchecked except documentation (can't go wrong with more documentation!)
+ 4. Go back to **Unity Hub** and click on **Learn** and pick a beginner tutorial to go through!
+    1. For the most part, you'll have to do some experimentation, documentation reading, and browsing to get through these tutorials. These tutorials vary in scripting, genre, time investment, and purpose so look for something that you'll find interesting!
 
 
 
