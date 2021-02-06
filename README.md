@@ -19,7 +19,7 @@
 - **How can I become an official member of the club?**
   - We track membership through the "member" role in Discord. If you attend any meeting, you'll be given the role.
 - **I have a suggestion or a concern. Who can I contact regarding this?**
-  - Our club operates on a democratic basis, so feel free to contact any of the officers on Discord: Edward#4272, goose#8888, or Jose Sepulveda#6216. We conduct polls often to decide on various logistics or future activities, so we do value your feedback.
+  - Our club operates democratically, so feel free to contact any of the officers on Discord: Edward#4272, goose#8888, or Jose Sepulveda#6216. We conduct polls often to decide on various logistics or future activities, so we do value your feedback.
 - **Where can I find records of previous meetings/activities?**
   - Aside from Hackathons and guest lectures, you can see everything we've done in Spring 2020 here: https://github.com/edjohn/cs-club/edit/master/README_2020.md
 - **Is there a formal document that outlines the club's logistics and vision?**
