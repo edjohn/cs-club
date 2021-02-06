@@ -33,9 +33,9 @@
 2. Download Unity Hub
    1. Go to https://store.unity.com/download?ref=personal, accept the terms, and click **Download Unity Hub**
    2. If you want, you can apply for the student developer pack at https://store.unity.com/academic/unity-student
-3. Open **Unity Hub** and log in with your account. Click on **Installs** and download the latest official release (recommended release may not work for our meeting activity)
+3. Open Unity Hub and log in with your account. Click on **Installs** and download the latest official release (recommended release may not work for our meeting activity)
    1. Make sure all the modules in the next window are unchecked except documentation (can't go wrong with more documentation!)
- 4. Go back to **Unity Hub** and click on **Learn** and pick a beginner tutorial to go through!
+ 4. Go back to Unity Hub and click on **Learn** and pick a beginner tutorial to go through!
     1. For the most part, you'll have to do some experimentation, documentation reading, and browsing to get through these tutorials. These tutorials vary in scripting, genre, time investment, and purpose so look for something that you'll find interesting!
 
 
