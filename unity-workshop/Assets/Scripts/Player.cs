@@ -14,6 +14,6 @@ public class Player : MonoBehaviour
     public float getAttack() { return this.attack; }
 
     public void setGold(float gold) { this.gold = gold; }
-    public void setAttack(float attack) { this.attack = attack; }
     public void setGoldPerClick(float goldPerClick) {this.goldPerClick = goldPerClick; }
+    public void setAttack(float attack) { this.attack = attack; }
 }
