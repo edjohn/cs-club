@@ -5,12 +5,14 @@ using UnityEngine.UI;
 
 public class EnemyManager : MonoBehaviour
 {
-    [SerializeField] private Player player;
     [SerializeField] private PlayerManager playerManager;
-    [SerializeField] private Enemy enemy;
     [SerializeField] private GameObject enemyStats;
     [SerializeField] private GameObject damageSound;
     [SerializeField] private GameObject deathSound;
+
+    // These are the variables you'll be using when writing functions
+    [SerializeField] private Player player;
+    [SerializeField] private Enemy enemy;
 
     void Start()
     {
@@ -69,7 +71,5 @@ public class EnemyManager : MonoBehaviour
         updateEnemyStatsUI();
         playerManager.updatePlayerStatsUI();
     }
-
-
 }
 

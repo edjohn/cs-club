@@ -5,10 +5,11 @@ using UnityEngine.UI;
 
 public class PlayerManager : MonoBehaviour
 {
-    [SerializeField] private Player player;
     [SerializeField] private GameObject playerStats;
 
-    // Start is called before the first frame update
+    // These are the variables you'll be using when writing functions
+    [SerializeField] private Player player;
+
     void Start()
     {
         updatePlayerStatsUI();

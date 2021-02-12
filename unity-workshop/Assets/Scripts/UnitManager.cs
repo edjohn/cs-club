@@ -6,7 +6,6 @@ using UnityEngine.UI;
 public class UnitManager : MonoBehaviour
 {
     [SerializeField] private PlayerManager playerManager;
-    [SerializeField] private Player player;
     [SerializeField] private GameObject unitUI;
     [SerializeField] private GameObject purchaseSound;
     [SerializeField] private GameObject upgradeSound;
@@ -14,6 +13,9 @@ public class UnitManager : MonoBehaviour
     private GameObject unitStats;
     private GameObject unitSprite;
     private GameObject unitNametag;
+
+    //These are the variables you'll be using when writing functions
+    [SerializeField] private Player player;
     private Unit unit;
 
     void Start()
@@ -91,6 +93,4 @@ public class UnitManager : MonoBehaviour
         player.setGoldPerClick(player.getGoldPerClick() + 1);
         updateUnitUI();
     }
-
-    
 }
