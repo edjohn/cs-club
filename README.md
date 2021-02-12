@@ -37,7 +37,7 @@
    1. Make sure all the modules in the next window are unchecked except documentation (can't go wrong with more documentation!)
  4. Go back to Unity Hub and click on **Learn** and pick a beginner tutorial to go through!
     1. For the most part, you'll have to do some experimentation, documentation reading, and browsing to get through these tutorials. These tutorials vary in scripting, genre, time investment, and purpose so look for something that you'll find interesting!
-
+ 5. If you're attending the unity workshop, download https://github.com/edjohn/cs-club/tree/master/unity-workshop to have it ready for the meeting. You'll be implementing the core game functionality for a basic clicker game through a bit of object-oriented programming.
 
 
 
