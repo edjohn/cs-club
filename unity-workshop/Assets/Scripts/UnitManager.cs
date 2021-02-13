@@ -61,7 +61,9 @@ public class UnitManager : MonoBehaviour
     */
     {
         //CODE WITHIN THESE LINES
-
+        float attack = unit.getAttack();
+        float upgradeCost = unit.getUpgradeCost();
+        string stats = $"ATTACK: {Mathf.Round(attack)}\nUPGRADE: {Mathf.Round(upgradeCost)}";
         //CODE WITHIN THESE LINES
 
         unitStats.GetComponent<Text>().text = stats;
@@ -74,7 +76,7 @@ public class UnitManager : MonoBehaviour
     Case 2: The player has not purchased the unit and can afford the upgrade cost
             1. Subtract the purchase cost from the player's gold
             2. Call a function that'll unlock the unit (hint: its in this file)
-            3. Call a function that'll buff the unit's attack (hint: its in this file)
+            3. Call a function that'll buff the player's attack (hint: its in this file)
             4. Call a function that'll play a purchase sound (hint: its in this file)
     Case 3: The player has purchased the unit and can afford the upgrade
             1. Subtract the purchase cost from the player's gold
@@ -86,8 +88,30 @@ public class UnitManager : MonoBehaviour
     */
     {
         //CODE WITHIN THESE LINES
+        bool isPurchased = unit.getIsPurchased();
+        bool canPurchase = player.getGold() > unit.getPurchaseCost();
+        bool canUpgrade = player.getGold() > unit.getUpgradeCost();
 
-            
+        if (!canPurchase && !canUpgrade)
+        {
+            return;
+        }
+        else if (!isPurchased && canPurchase)
+        {
+            player.setGold(player.getGold() - unit.getPurchaseCost());
+            unlock();
+            buffPlayerAttack();
+            playPurchaseSound();
+        }
+        else if (canUpgrade)
+        {
+            player.setGold(player.getGold() - unit.getUpgradeCost());
+            unit.setLevel(unit.getLevel() + 1);
+            unit.setAttack(unit.getAttack() * unit.getAttackModifier());
+            unit.setUpgradeCost(unit.getUpgradeCost() * unit.getUpgradeCostModifier());
+            buffPlayerAttack();
+            playUpgradeSound();
+        }
         //CODE WITHIN THESE LINES
 
         player.setGoldPerClick(player.getGoldPerClick() + 1);

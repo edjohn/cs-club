@@ -32,11 +32,12 @@ public class EnemyManager : MonoBehaviour
     private void handleDeath()
     /*
     1. Increase the player's gold by the enemy's gold value.
-    2. Call a function that'll play a damage sound (hint: its in this file)
+    2. Call a function that'll play a death sound (hint: its in this file)
     */
     {
         //CODE WITHIN THESE LINES
-
+        player.setGold(enemy.getGold() + player.getGold());
+        playDeathSound();
         //CODE WITHIN THESE LINES
 
         Destroy(enemy.gameObject);
@@ -50,7 +51,7 @@ public class EnemyManager : MonoBehaviour
     */
     {
         //CODE WITHIN THESE LINES
-
+        string stats = $"HEALTH: {enemy.getHealth()}\n GOLD: {enemy.getGold()}";
         //CODE WITHIN THESE LINES
 
         enemyStats.GetComponent<Text>().text = stats;
@@ -65,7 +66,15 @@ public class EnemyManager : MonoBehaviour
     */
     {
         //CODE WITHIN THESE LINES
+        float enemyHealth = enemy.getHealth();
 
+        player.setGold(player.getGold() + player.getGoldPerClick());
+        enemy.setHealth(enemyHealth - player.getAttack());
+        if (enemyHealth <= 0)
+        {
+            handleDeath();
+        }
+        playDamageSound();
         //CODE WITHIN THESE LINES
 
         updateEnemyStatsUI();

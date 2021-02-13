@@ -26,7 +26,11 @@ public class PlayerManager : MonoBehaviour
     */
     {
         //CODE WITHIN THESE LINES
+        float attack = player.getAttack();
+        float gold = player.getGold();
+        float goldPerClick = player.getGoldPerClick();
 
+        string stats = $"ATTACK: {Mathf.Round(attack)}\nGOLD: {Mathf.Round(gold)}\nGOLD/CLICK: {Mathf.Round(goldPerClick)}";
         //CODE WITHIN THESE LINES
 
         playerStats.GetComponent<Text>().text = stats;
