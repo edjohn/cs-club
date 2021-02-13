@@ -74,7 +74,7 @@ public class UnitManager : MonoBehaviour
     Case 2: The player has not purchased the unit and can afford the upgrade cost
             1. Subtract the purchase cost from the player's gold
             2. Call a function that'll unlock the unit (hint: its in this file)
-            3. Call a function that'll buff the unit's attack (hint: its in this file)
+            3. Call a function that'll buff the player's attack (hint: its in this file)
             4. Call a function that'll play a purchase sound (hint: its in this file)
     Case 3: The player has purchased the unit and can afford the upgrade
             1. Subtract the purchase cost from the player's gold

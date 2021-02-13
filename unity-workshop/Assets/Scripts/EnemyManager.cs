@@ -32,7 +32,7 @@ public class EnemyManager : MonoBehaviour
     private void handleDeath()
     /*
     1. Increase the player's gold by the enemy's gold value.
-    2. Call a function that'll play a damage sound (hint: its in this file)
+    2. Call a function that'll play a death sound (hint: its in this file)
     */
     {
         //CODE WITHIN THESE LINES
