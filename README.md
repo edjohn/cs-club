@@ -39,6 +39,15 @@
     1. For the most part, you'll have to do some experimentation, documentation reading, and browsing to get through these tutorials. These tutorials vary in scripting, genre, time investment, and purpose so look for something that you'll find interesting!
  5. If you're attending the unity workshop, download https://github.com/edjohn/cs-club/tree/unity-workshop to have it ready for the meeting. You'll be implementing the core game functionality for a basic clicker game through a bit of object-oriented programming. You can check your answers at https://github.com/edjohn/cs-club/tree/unity-workshop-answers.
 
-
-
-
+# Meeting 4: Web Development (Part 1)
+<img src="https://miro.medium.com/max/792/1*lJ32Bl-lHWmNMUSiSq17gQ.png" width="50%" height="50%"></img>
+- *Meeting Date: 03/12/2020*
+1. This activity was held as a workshop during the meeting. **You can download the project files here: https://github.com/edjohn/cs-club/tree/webdev-workshop**
+2. Here are some resources/links, some of which were mentioned during the workshop:
+   - https://uxdesign.cc/https-medium-com-ux-ui-analysis-of-turbotax-171c86d80a41 (Article on the excellent UI and UX of TurboTax)
+   - https://codepen.io/ (Website for finding front-end code posted by other people)
+   - https://getbootstrap.com/ (Bootstrap, a CSS framework for more efficient development)
+   - https://css-tricks.com/snippets/css/a-guide-to-flexbox/ (Guide to flexbox, a more efficient way of organizing items in CSS)
+   - https://developers.google.com/web/tools/chrome-devtools (Documentation for chrome devtools, a powerful tool for testing and editing webpages)
+   - https://www.w3schools.com/TAGS/default.ASP (Reference sheet for HTML)
+   - https://www.w3schools.com/cssref/ (Reference sheet for CSS)
