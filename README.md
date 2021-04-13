@@ -51,3 +51,14 @@
    - https://developers.google.com/web/tools/chrome-devtools (Documentation for chrome devtools, a powerful tool for testing and editing webpages)
    - https://www.w3schools.com/TAGS/default.ASP (Reference sheet for HTML)
    - https://www.w3schools.com/cssref/ (Reference sheet for CSS)
+ 
+ # Meeting 5: Web Development (Part 2)
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="25%" height="25%"></img>
+ - *Meeting Date: 03/26/2020*
+1. This activity was held as a workshop during the meeting. **You can download the project files here: https://github.com/edjohn/cs-club/tree/webdev-workshop**
+2. Here are some popular JavaScript frameworks that were mentioned during the workshop and a link to the documentation of JSON, a useful way to retrieve and manipulate data from APIs provided for you by other programmers
+   - https://reactjs.org/ (React)
+   - https://vuejs.org/ (Vue)
+   - https://angular.io/ (Angular)
+   - https://www.json.org/json-en.html (JSON Documentation)
+
