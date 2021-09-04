@@ -3,7 +3,7 @@
 
 ## FAQ
 - **Where can I join the Discord for the club?**
-  - Here's the link to our Discord: [discord.gg/KuebcYY](discord.gg/KuebcYY). This is our communication hub where you can receive announcements and chat with other members.
+  - Here's the link to our Discord: [https://discord.com/invite/KuebcYY](https://discord.com/invite/KuebcYY). This is our communication hub where you can receive announcements and chat with other members.
 - **Where do I attend meetings?**
   - You attend meetings by joining the meeting voice channel and #meeting text channel in our Discord. During guest lectures, we may use a zoom link that'll be mentioned in the #announcements chat.
 - **When are the meetings?**
