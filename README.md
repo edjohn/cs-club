@@ -5,7 +5,7 @@
 - **Where can I join the Discord for the club?**
   - Here's the link to our Discord: [https://discord.com/invite/KuebcYY](https://discord.com/invite/KuebcYY). This is our communication hub where you can receive announcements and chat with other members.
 - **Where do I attend meetings?**
-  - You attend meetings by joining the meeting voice channel and #meeting text channel in our Discord. During guest lectures, we may use a zoom link that'll be mentioned in the #announcements chat.
+  - Typically, a zoom link will be mentioned in the #announcements chat channel in Discord.
 - **When are the meetings?**
   - Meetings are currently on biweekly Fridays of the month, lasting from 5:00-6:00 PM. Here are the official dates:
     - 9/10/21
