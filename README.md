@@ -27,6 +27,11 @@
 ## Meeting 1: Postman API Workshop
 <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" width="25%" height="25%"></img>
 - *Meeting Date: 9/10/2020*
-1. Before the meeting, check out their website https://www.postman.com/ and their student program https://www.postman.com/company/student-program/ if you're interested in learning more about them.
+1. This meeting was held as a workshop on Zoom. If you didn't attend, here are some relevant links to check out.
+    - [Presentation Slides](https://docs.google.com/presentation/d/1YxmgGQBPRJAmFTR-VXQ6gbunXK1rdRlLAwaKpP08HAk/)
+    - [Student Expert Program](https://www.postman.com/company/student-program/#student-expert-program)
+      - This is where you can learn essential Postman and API skills through a short training course and earn a badge to put on a resume. Knowledge and expertise of APIs will also improve your workflow in your personal projects.
+    - [Workshop Sample Workspace](https://www.postman.com/postman/workspace/postman-classroom-program/documentation/15567703-da68bf1c-1aae-4f14-a79b-95926a816366)
+2. Seriously consider looking into learning about Postman and APIs! As you'll see in the slides, **98% of Fortune 500 organizations use Postman** so its a very relevant and convenient tool for developers!
 
 
