@@ -39,7 +39,7 @@
 
 - *Meeeting Date: 9/8/2021*
 1. Ever see [this](https://www.youtube.com/watch?v=uGrBHohIgQY) video? This is **competitive programming**, where you solve coding challenges and get ranked amongst others based on problem completion, time of completion, and the efficiency of your solution.
-2. We wil be collaboratively solving a Google Kickstart problem! Google Kickstart is a programming competion where you solve algorithmic puzzles. Aside from the compettiive aspect, it should also help you get used to the format of interview questions.
+2. We wil be collaboratively solving a Google Kickstart problem! Google Kickstart is a programming competion where you solve algorithmic puzzles. Aside from the competitive aspect, it should also help you get used to the format of interview questions.
 3. Check out https://codingcompetitions.withgoogle.com/kickstart/archive to see the problems from previous competitions.
 4. If you're interested in competing, go to https://codingcompetitions.withgoogle.com/kickstart/register and register for the next competition on October 16th! Participation alone should hone your problem-solving skills and potentially give you something to put on a resume if you do it regularly.
 
