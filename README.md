@@ -26,7 +26,7 @@
 
 ## Meeting 1: Postman API Workshop
 <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" width="25%" height="25%"></img>
-- *Meeting Date: 9/10/2020*
+- *Meeting Date: 9/10/2021*
 1. This meeting was held as a workshop on Zoom. If you didn't attend, here are some relevant links to check out.
     - [Presentation Slides](https://docs.google.com/presentation/d/1YxmgGQBPRJAmFTR-VXQ6gbunXK1rdRlLAwaKpP08HAk/)
     - [Student Expert Program](https://www.postman.com/company/student-program/#student-expert-program)
@@ -34,4 +34,12 @@
     - [Workshop Sample Workspace](https://www.postman.com/postman/workspace/postman-classroom-program/documentation/15567703-da68bf1c-1aae-4f14-a79b-95926a816366)
 2. Seriously consider looking into learning about Postman and APIs! As you'll see in the slides, **98% of Fortune 500 organizations use Postman** so its a very relevant and convenient tool for developers!
 
+## Meeting 3: Google Kickstart
+<img src="https://cdn.vox-cdn.com/thumbor/Ous3VQj1sn4tvb3H13rIu8eGoZs=/0x0:2012x1341/1400x788/filters:focal(0x0:2012x1341):format(jpeg)/cdn.vox-cdn.com/uploads/chorus_image/image/47070706/google2.0.0.jpg" width="50%" height="50%"></img>
+
+- *Meeeting Date: 9/8/2021*
+1. Ever see [this](https://www.youtube.com/watch?v=uGrBHohIgQY) video? This is **competitive programming**, where you solve coding challenges and get ranked amongst others based on problem completion, time of completion, and the efficiency of your solution.
+2. We wil be collaboratively solving a Google Kickstart problem! Google Kickstart is a programming competion where you solve algorithmic puzzles. Aside from the compettiive aspect, it should also help you get used to the format of interview questions.
+3. Check out https://codingcompetitions.withgoogle.com/kickstart/archive to see the problems from previous competitions.
+4. If you're interested in competing, go to https://codingcompetitions.withgoogle.com/kickstart/register and register for the next competition on October 16th! Participation alone should hone your problem-solving skills and potentially give you something to put on a resume if you do it regularly.
 
