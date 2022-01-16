@@ -1,7 +1,7 @@
 # BC CS Club
 ![Logo](https://i.imgur.com/K2QpwMC.png)
 
-## FAQ
+# FAQ
 - **Where can I join the Discord for the club?**
   - Here's the link to our Discord: discord.gg/KuebcYY. This is our communication hub where you can receive announcements and chat with other members.
 - **Where do I attend meetings?**
@@ -25,7 +25,7 @@
 - **Is there a formal document that outlines the club's logistics and vision?**
    - Nobody has ever actually asked this question but it's definitely an important question to ask. Here's our official written constitution: https://github.com/edjohn/cs-club/blob/master/student_org_constitution.pdf. The preamble, mission statement, and purpose are what we form this club around. If you ever feel we're veering off course, let us know so we can improve!
 
-## Meeting 2: Unity Game Development
+# Meeting 2: Unity Game Development
 <img src="https://unity.com/logo-unity-web.png" width="50%" height="50%"></img>
 - *Meeting Date: 02/12/2020*
 1. Create a Unity Hub account at https://id.unity.com/en/conversations/6f6f58ea-5661-4967-8854-1082b5246a75004f
@@ -52,7 +52,7 @@
    - https://www.w3schools.com/TAGS/default.ASP (Reference sheet for HTML)
    - https://www.w3schools.com/cssref/ (Reference sheet for CSS)
  
- # Meeting 5: Web Development (Part 2)
+# Meeting 5: Web Development (Part 2)
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="25%" height="25%"></img>
  - *Meeting Date: 03/26/2020*
 1. This activity was held as a workshop during the meeting. **You can download the project files here: https://github.com/edjohn/cs-club/tree/webdev-workshop**
@@ -61,3 +61,8 @@
    - https://vuejs.org/ (Vue)
    - https://angular.io/ (Angular)
    - https://www.json.org/json-en.html (JSON Documentation)
+
+### Note on Meeting 1
+This meeting was a coding competition.
+### Note on Meetings 3, 6, 7
+These meetings were guest lectures held on Zoom.

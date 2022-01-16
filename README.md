@@ -1,7 +1,7 @@
 # BC CS Club
 ![Logo](https://i.imgur.com/K2QpwMC.png)
 
-## FAQ
+# FAQ
 - **Where can I join the Discord for the club?**
   - Here's the link to our Discord: [https://discord.com/invite/KuebcYY](https://discord.com/invite/KuebcYY). This is our communication hub where you can receive announcements and chat with other members.
 - **Where do I attend meetings?**
@@ -43,3 +43,5 @@
 3. Check out https://codingcompetitions.withgoogle.com/kickstart/archive to see the problems from previous competitions.
 4. If you're interested in competing, go to https://codingcompetitions.withgoogle.com/kickstart/register and register for the next competition on October 16th! Participation alone should hone your problem-solving skills and potentially give you something to put on a resume if you do it regularly.
 
+### Note on Meetings 2, 4, 5, 6, 7
+These meetings were guest lectures held on Zoom.
