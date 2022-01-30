@@ -1,47 +1,41 @@
 # BC CS Club
-![Logo](https://i.imgur.com/K2QpwMC.png)
+<img src="https://i.imgur.com/K2QpwMC.png" width="25%" height="25%"></img>
 
 # FAQ
 - **Where can I join the Discord for the club?**
-  - Here's the link to our Discord: [https://discord.com/invite/KuebcYY](https://discord.com/invite/KuebcYY). This is our communication hub where you can receive announcements and chat with other members.
+  - Here's the link to our Discord: https://discord.com/invite/KuebcYY. This is our communication hub where you can receive announcements and chat with other members.
 - **Where do I attend meetings?**
-  - Typically, a zoom link will be mentioned in the #announcements chat channel in Discord.
+  - You attend meetings by joining the meeting voice channel and #meeting text channel in our Discord. During guest lectures, we may use a zoom link that'll be mentioned in the #announcements chat.
 - **When are the meetings?**
-  - Meetings are currently on biweekly Fridays of the month, lasting from 5:00-6:00 PM. Here are the official dates:
-    - 9/10/21
-    - 9/24/21
-    - 10/8/21
-    - 10/22/21
-    - 11/5/21
-    - 11/19/21
-    - 12/3/21
-- **How can I become an official member of the club?**
-  - We track "official" membership (aka meeting attendees) through the member role in Discord. If you attend any meeting, you'll be given the role. If you've attended a meeting on Zoom, just let an officer know if your name is different from your Discord name.
+  - Meetings are currently held biweekly, lasting from 3:00-4:00 PM. Here are the official dates:
+    - 2/04/22
+    - 2/18/22
+    - 3/04/22
+    - 3/18/22
+    - 4/01/22
+    - 4/22/22
+    - 5/06/22
+- **How can I become a member of the club council?**
+    - Council members are picked out by the current council and officers. All it requires is that you participate in the club and make some contributions!
+      Helping out other students, volunteering to organize a club activity, sharing informational resources, and being involved during meetings are all good ways to contribute.
 - **I have a suggestion or a concern. Who can I contact regarding this?**
   - Our club operates democratically, so feel free to contact any of the officers on Discord (currently Edward#4272, Jose Sepulveda#6216, or wake#4409). We conduct polls often to decide on various logistics or future activities, so we do value your feedback.
 - **Where can I find records of previous meetings/activities?**
-  - Aside from Hackathons and guest lectures, you can see everything we've done in Fall 2020 here: https://github.com/edjohn/cs-club/blob/master/README_FA2020.md and everything from Spring 2021 here: https://github.com/edjohn/cs-club/blob/master/README_SP2021.md.
+  - Aside from coding competitions and guest lectures, you can see everything we've done in previous semesters here: 
+    - Fall 2020: https://github.com/edjohn/cs-club/blob/master/README_FA2020.md 
+    - Spring 2021: https://github.com/edjohn/cs-club/blob/master/README_SP2021.md
+    - Fall 2021: https://github.com/edjohn/cs-club/blob/master/README_FA2021.md
 - **Is there a formal document that outlines the club's logistics and vision?**
    - Nobody has ever actually asked this question but it's definitely an important question to ask. Here's our official written constitution: https://github.com/edjohn/cs-club/blob/master/student_org_constitution.pdf. The preamble, mission statement, and purpose are what we form this club around. If you ever feel we're veering off course, let us know so we can improve!
 
-## Meeting 1: Postman API Workshop
-<img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" width="25%" height="25%"></img>
-- *Meeting Date: 9/10/2021*
-1. This meeting was held as a workshop on Zoom. If you didn't attend, here are some relevant links to check out.
-    - [Presentation Slides](https://docs.google.com/presentation/d/1YxmgGQBPRJAmFTR-VXQ6gbunXK1rdRlLAwaKpP08HAk/)
-    - [Student Expert Program](https://www.postman.com/company/student-program/#student-expert-program)
-      - This is where you can learn essential Postman and API skills through a short training course and earn a badge to put on a resume. Knowledge and expertise of APIs will also improve your workflow in your personal projects.
-    - [Workshop Sample Workspace](https://www.postman.com/postman/workspace/postman-classroom-program/documentation/15567703-da68bf1c-1aae-4f14-a79b-95926a816366)
-2. Seriously consider looking into learning about Postman and APIs! As you'll see in the slides, **98% of Fortune 500 organizations use Postman** so its a very relevant and convenient tool for developers!
-
-## Meeting 3: Google Kickstart
-<img src="https://cdn.vox-cdn.com/thumbor/Ous3VQj1sn4tvb3H13rIu8eGoZs=/0x0:2012x1341/1400x788/filters:focal(0x0:2012x1341):format(jpeg)/cdn.vox-cdn.com/uploads/chorus_image/image/47070706/google2.0.0.jpg" width="50%" height="50%"></img>
-
-- *Meeeting Date: 9/8/2021*
-1. Ever see [this](https://www.youtube.com/watch?v=uGrBHohIgQY) video? This is **competitive programming**, where you solve coding challenges and get ranked amongst others based on problem completion, time of completion, and the efficiency of your solution.
-2. We wil be collaboratively solving a Google Kickstart problem! Google Kickstart is a programming competion where you solve algorithmic puzzles. Aside from the competitive aspect, it should also help you get used to the format of interview questions.
-3. Check out https://codingcompetitions.withgoogle.com/kickstart/archive to see the problems from previous competitions.
-4. If you're interested in competing, go to https://codingcompetitions.withgoogle.com/kickstart/register and register for the next competition on October 16th! Participation alone should hone your problem-solving skills and potentially give you something to put on a resume if you do it regularly.
-
-### Note on Meetings 2, 4, 5, 6, 7
-These meetings were guest lectures held on Zoom.
+# Meeting 1: HackerRank Competition
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="25%" height="25%"></img>
+- *Meeting Date: 02/04/2022*
+1. Create a HackerRank account at https://www.hackerrank.com/auth/signup.
+2. Sign up for our first coding competition of 2022 at https://www.hackerrank.com/bccs-sp2022-first-meeting.
+3. That's it! The coding challenges for our competition will be straightforward algorithmic puzzles, but first you might want to sharpen up on your syntax. 
+   You can use any language, but try to stick to one you're familiar with. Here are links to practice with the three most popular ones.
+   - Python Challenges https://www.hackerrank.com/domains/python
+   - Java Challenges https://www.hackerrank.com/domains/java
+   - C++ Challenges https://www.hackerrank.com/domains/cpp
+4. Attend our meeting on Friday at 3:00 PM on Discord! The competition itself will last from 3:15-4:30 PM. Think of this competition as just practice for what's to come, because we may have something bigger in store for you later in the semester!
