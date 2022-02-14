@@ -7,9 +7,8 @@
 - **Where do I attend meetings?**
   - You attend meetings by joining the meeting voice channel and #meeting text channel in our Discord. During guest lectures, we may use a zoom link that'll be mentioned in the #announcements chat.
 - **When are the meetings?**
-  - Meetings are currently held biweekly, lasting from 3:00-4:00 PM. Here are the official dates:
+  - Meetings are currently held biweekly (minus holidays), lasting from 3:00-4:00 PM. Here are the official dates:
     - 2/04/22
-    - 2/18/22
     - 3/04/22
     - 3/18/22
     - 4/01/22
