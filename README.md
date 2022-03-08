@@ -38,3 +38,6 @@
    - Java Challenges https://www.hackerrank.com/domains/java
    - C++ Challenges https://www.hackerrank.com/domains/cpp
 4. Attend our meeting on Friday at 3:00 PM on Discord! The competition itself will last from 3:15-4:30 PM. Think of this competition as just practice for what's to come, because we may have something bigger in store for you later in the semester!
+
+### Note on Meeting 2
+This meeting was a Minecraft session. Our server is up at **198.27.69.82:2017** until 04/03/22.
