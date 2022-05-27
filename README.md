@@ -59,6 +59,7 @@ may be remotely interested in.
     - 1st Place: jakeyomind
     - 2nd Place: muriaz00
     - 3rd Place: g1ver
+4. Problem solutions can be found here: https://github.com/edjohn/cs-club/blob/master/Project_Renegade_Solutions.ipynb
 
 ### Note on Meeting 2
 This meeting was a Minecraft session.
