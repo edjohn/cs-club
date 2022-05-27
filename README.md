@@ -1,5 +1,5 @@
 # BC CS Club
-<img src="https://i.imgur.com/K2QpwMC.png" width="25%" height="25%"></img>
+<img src="https://i.imgur.com/K2QpwMC.png" width="10%" height="10%"></img>
 
 # FAQ
 - **Where can I join the Discord for the club?**
@@ -11,7 +11,6 @@
     - 2/04/22
     - 3/04/22
     - 3/18/22
-    - 4/01/22
     - 4/22/22
     - 5/06/22
 - **How can I become a member of the club council?**
@@ -28,7 +27,7 @@
    - Nobody has ever actually asked this question but it's definitely an important question to ask. Here's our official written constitution: https://github.com/edjohn/cs-club/blob/master/student_org_constitution.pdf. The preamble, mission statement, and purpose are what we form this club around. If you ever feel we're veering off course, let us know so we can improve!
 
 # Meeting 1: HackerRank Competition
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="25%" height="25%"></img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="10%" height="10%"></img>
 - *Meeting Date: 02/04/2022*
 1. Create a HackerRank account at https://www.hackerrank.com/auth/signup.
 2. Sign up for our first coding competition of 2022 at https://www.hackerrank.com/bccs-sp2022-first-meeting.
@@ -39,5 +38,30 @@
    - C++ Challenges https://www.hackerrank.com/domains/cpp
 4. Attend our meeting on Friday at 3:00 PM on Discord! The competition itself will last from 3:15-4:30 PM. Think of this competition as just practice for what's to come, because we may have something bigger in store for you later in the semester!
 
+# Meeting 4: Bitwise Industries Presentation
+<img src="https://bitwiseindustries.com/wp-content/themes/tessa-child/assets/img/bwi_logo_horizontal_black.svg" width="25%" height="25%"></img>
+- *Meeting Date: 04/22/2022*
+1. This meeting is a presentation from a community outreach coordinator at Bitwise Industries. Here are a couple key details:
+    - Bitwise provides apprenticeship opportunities 
+    - Bitwise provides classes for web development (financial aid available)
+    - Bitwise has leasable offices for any events or programs you may need to organize
+2. If you did not attend this presentation, just know that they are a reputable organization that are focused on getting
+underprivileged or marginalized communities into the tech industry. We are not sponsored by them, but we recommend checking them out anyway if they offer something you
+may be remotely interested in.
+3. For more information, check out Bitwise Industries at this link: https://bitwiseindustries.com/
+
+# Meeting 5: Project Renegade
+<img src="https://www.bakersfieldcollege.edu/sites/bakersfieldcollege.edu/files/BC_logo.png" width="10%" height="10%"></img>
+- *Meeting Date: 05/06/2022*
+1. Project Renegade is the first official coding competition at Bakersfield College, organized with HackerRank.
+2. The competition sign up page can be found at https://www.hackerrank.com/project-renegade.
+3. Details regarding the competition (including a flyer) were announced on Discord. The top three participants won prizes worth $100, $50, and $25 based on placement. 
+    - 1st Place: jakeyomind
+    - 2nd Place: muriaz00
+    - 3rd Place: g1ver
+
 ### Note on Meeting 2
-This meeting was a Minecraft session. Our server is up at **198.27.69.82:2017** until 04/03/22.
+This meeting was a Minecraft session.
+
+### Note on Meeting 3
+This meeting was a logistical meeting to select future officers.
